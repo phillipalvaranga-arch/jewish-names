@@ -1,0 +1,418 @@
+Abarbanel|Iberian Jewish family name of uncertain origin; famous through Don Isaac Abarbanel (1437–1508)|Spanish/Portuguese|Sephardic|Spain, Portugal, Italy|SEPH_IT|
+Abendana|Iberian Sephardic family name (Aben = "son of")|Spanish (Arabic "ibn")|Sephardic|Spain, Amsterdam, London, Jamaica|SEPH_CARIB|
+Abensur|"Son of Sur" (Arabic ibn + name)|Arabic|Sephardic|Spain, Morocco, Amsterdam|SEPH_MAGH|
+Aboab|Old Sephardic family name of Arabic origin|Arabic|Sephardic|Spain, Portugal, Amsterdam, Brazil, Venice|SEPH_CARIB|
+Abrabanel|Variant spelling of Abarbanel|Spanish/Portuguese|Sephardic|Spain, Portugal, Italy, Amsterdam|SEPH_IT|
+Abraham|From the patriarch Abraham, "father of many"|Hebrew|All communities|Worldwide|GEN|1
+Abrahams|"Son of Abraham"|Hebrew + English patronymic|Ashkenazi / Sephardic|England, Netherlands, South Africa|ASH_NL|1
+Abramovich|"Son of Abram"|Hebrew + Slavic patronymic|Ashkenazi|Russia, Belarus, Ukraine|ASH_E|1
+Abramowitz|"Son of Abram"|Hebrew + Slavic patronymic|Ashkenazi|Poland, Lithuania, USA|ASH_E|
+Abravanel|Variant spelling of Abarbanel|Spanish/Portuguese|Sephardic|Spain, Portugal, Italy|SEPH_IT|
+Abulafia|"Father of health/wellbeing" (Arabic Abu al-Afiya)|Arabic|Sephardic|Spain, Ottoman Empire, Land of Israel (Tiberias)|SEPH_OTT|
+Acosta|"Coast" (variant of Da Costa)|Portuguese/Spanish|Sephardic|Portugal, Amsterdam, Caribbean|SEPH_CARIB|1
+Adler|"Eagle" — often from a house sign in Frankfurt's Jewish street|German|Ashkenazi|Germany, Austria, USA|ASH_G|1
+Aguilar|Place name in Spain ("eagle's nest")|Spanish|Sephardic|Spain, Portugal, London, Jamaica|SEPH_CARIB|1
+Albo|Iberian Jewish family name (Joseph Albo, 15th c. philosopher)|Spanish|Sephardic|Spain, Morocco|SEPH_MAGH|1
+Alhadeff|Sephardic family name of Arabic origin|Arabic|Sephardic|Rhodes, Turkey, Seattle, Congo|SEPH_OTT|
+Almeida|Portuguese place name (from Arabic "al-ma'ida", the table/plateau)|Portuguese|Sephardic|Portugal, Amsterdam, Caribbean|SEPH_CARIB|1
+Almosnino|Sephardic family name; Rabbi Moses Almosnino of Salonica (16th c.)|Spanish|Sephardic|Spain, Salonica, Turkey|SEPH_OTT|
+Alvares|"Son of Álvaro" (Portuguese patronymic)|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, London, Jamaica|SEPH_CARIB|1
+Alvarez|"Son of Álvaro" (Spanish patronymic)|Spanish|Sephardic (also non-Jewish)|Spain, Portugal, Caribbean, Latin America|SEPH_CARIB|1
+Amar|Sephardic/North African name of Arabic origin|Arabic|Sephardic / Mizrahi|Morocco, Algeria, Israel, France|SEPH_MAGH|1
+Amzalag|North African Jewish family name of Berber origin|Berber|Sephardic / Maghrebi|Morocco, Gibraltar, Portugal, Israel|SEPH_MAGH|
+Angel|"Angel" — Sephardic family name|Spanish|Sephardic|Rhodes, Turkey, USA|SEPH_OTT|1
+Arditi|Sephardic family name, possibly from Spanish "ardid" (cunning)|Spanish|Sephardic|Ottoman Empire, Italy, Greece|SEPH_OTT|
+Aschkenasy|"Ashkenazi" — someone from the German Jewish lands|Hebrew|Ashkenazi / Sephardic|Germany, Turkey, Israel|ASH_E|
+Ashkenazi|"Ashkenaz" = Hebrew for Germany; a Jew of German origin living among other Jews|Hebrew|Ashkenazi (also among Sephardim)|Ottoman Empire, Israel, Poland|ASH_E|
+Attias|North African Sephardic family name|Arabic/Spanish|Sephardic|Morocco, Amsterdam, Livorno, London|SEPH_MAGH|
+Azoulay|Moroccan Jewish family name of Berber/Arabic origin|Berber/Arabic|Sephardic / Maghrebi|Morocco, Israel, France, Canada|SEPH_MAGH|
+Azulay|Variant of Azoulay; Rabbi Chaim Yosef David Azulai (the Chida)|Berber/Arabic|Sephardic|Morocco, Land of Israel, Italy|SEPH_MAGH|
+Bacharach|From the town of Bacharach on the Rhine|German (place)|Ashkenazi|Germany, USA|ASH_G|
+Baruch|"Blessed"|Hebrew|All communities|Worldwide|GEN|1
+Barzilai|Biblical name (2 Samuel 19), "of iron"|Hebrew|Sephardic / Italki|Italy, Ottoman Empire, Israel|SEPH_OTT|
+Belilios|Sephardic family name|Spanish/Portuguese|Sephardic|Venice, Amsterdam, Hong Kong, India|SEPH_IT|
+Belmonte|Place name: Belmonte, Portugal/Spain ("beautiful mountain")|Portuguese/Spanish|Sephardic|Portugal, Amsterdam, Hamburg|SEPH_CARIB|1
+Benarroch|North African Sephardic name ("ben" + family name)|Hebrew/Arabic|Sephardic|Morocco, Spanish Morocco, Venezuela, Israel|SEPH_MAGH|
+Benatar|"Son of the perfumer" (ben + Arabic attar)|Hebrew + Arabic|Sephardic|Morocco, Gibraltar, Israel|SEPH_MAGH|
+Bendahan|"Son of Dahan"|Hebrew + Arabic|Sephardic|Morocco, Spanish Morocco, Venezuela|SEPH_MAGH|
+Benjamin|From Benjamin, son of Jacob|Hebrew|All communities|Worldwide|GEN|1
+Bensimon|"Son of Simon"|Hebrew|Sephardic|Morocco, Algeria, France, Israel|SEPH_MAGH|
+Benveniste|"Welcome" (Spanish/Catalan)|Spanish/Provençal|Sephardic|Spain, Provence, Ottoman Empire|SEPH_OTT|
+Benzaquen|Sephardic family name from North Africa|Hebrew/Arabic|Sephardic|Morocco, Venezuela, Brazil (Amazon)|SEPH_MAGH|
+Berger|"From the mountain" or a place named Berg|German|Ashkenazi|Germany, Austria-Hungary, USA|ASH_G|1
+Berkowitz|"Son of Berek/Ber" (Yiddish Ber = bear)|Yiddish + Slavic|Ashkenazi|Poland, Russia, USA|ASH_E|
+Berlin|From the city of Berlin (or Berlinchen)|German (place)|Ashkenazi|Germany, Russia, USA|ASH_E|1
+Bernal|Spanish name (from Bernardo); Converso families|Spanish|Sephardic (also non-Jewish)|Spain, Caribbean|SEPH_CARIB|1
+Bernstein|"Amber"|German|Ashkenazi|Germany, Poland, USA|ASH_E|1
+Biton|North African Jewish family name|Arabic/Berber|Sephardic / Maghrebi|Morocco, Israel|SEPH_MAGH|
+Bloch|"Foreigner from the Latin/Italian lands" (Polish/German Wloch)|German/Polish|Ashkenazi|Germany, Alsace, Bohemia|ASH_G|1
+Blum|"Flower"; often from Yiddish female name Blume|German/Yiddish|Ashkenazi|Germany, France, USA|ASH_G|1
+Brandeis|From the town Brandýs in Bohemia|Czech (place)|Ashkenazi|Bohemia, USA|ASH_G|
+Bueno|"Good"|Spanish/Portuguese|Sephardic (also non-Jewish)|Spain, Amsterdam, Caribbean|SEPH_CARIB|1
+Cardozo|Iberian name (cardo = thistle); Sephardic families|Portuguese|Sephardic|Portugal, Amsterdam, London, New York|SEPH_CARIB|1
+Carvalho|"Oak tree"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Caribbean, USA|SEPH_CARIB|1
+Castro|"Fort / castle" — place names|Spanish/Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Jamaica, Curaçao|SEPH_CARIB|1
+Caro|Spanish name; Rabbi Joseph Karo/Caro, author of the Shulchan Aruch|Spanish|Sephardic|Spain, Ottoman Empire, Safed|SEPH_OTT|1
+Chagall|Yiddish name; artist Marc Chagall from Vitebsk|Yiddish|Ashkenazi|Belarus, France|ASH_E|
+Cohen|"Priest" — descendant of Aaron (kohen)|Hebrew|All communities|Worldwide|GEN|
+Cohn|"Priest" (kohen)|Hebrew|Ashkenazi|Germany, USA|ASH_G|
+Coronel|"Colonel"; prominent Converso family (Senior Coronel)|Spanish|Sephardic|Spain, Portugal, Amsterdam|SEPH_CARIB|1
+Costa|"Coast"|Portuguese/Italian|Sephardic (also non-Jewish)|Portugal, Italy, Amsterdam|SEPH_CARIB|1
+Crémieux|From the town Crémieu in France|French (place)|French (Comtadin)|Provence, France|FR|
+Curiel|Iberian Sephardic family name|Spanish/Portuguese|Sephardic|Portugal, Amsterdam, Curaçao, Egypt|SEPH_CARIB|
+DaCosta|"Of the coast"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, London, Jamaica, Barbados|SEPH_CARIB|1
+DaSilva|"Of the woods"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Caribbean, Brazil|SEPH_CARIB|1
+Dahan|Moroccan Jewish family name; often linked to Hebrew "kohen" or Arabic "oil/painter"|Arabic|Sephardic / Maghrebi|Morocco, Israel, France|SEPH_MAGH|
+Danon|Sephardic family name|Hebrew/Spanish|Sephardic|Ottoman Empire, Bosnia, Morocco|SEPH_OTT|
+Delmonte|"Of the mountain"|Spanish/Italian|Sephardic (also non-Jewish)|Italy, Amsterdam, Caribbean|SEPH_CARIB|1
+DeCordova|"From Córdoba" (city in Spain)|Spanish (place)|Sephardic|Spain, Amsterdam, Jamaica|SEPH_CARIB|1
+DeLeon|"From León" (city/kingdom in Spain)|Spanish (place)|Sephardic (also non-Jewish)|Spain, Amsterdam, Jamaica, Curaçao|SEPH_CARIB|1
+DeLima|"From Lima" (river/region in Portugal)|Portuguese (place)|Sephardic|Portugal, Amsterdam, Caribbean|SEPH_CARIB|1
+DePass|Sephardic family name (De Paz, "of peace")|Spanish/Portuguese|Sephardic|Jamaica, London|SEPH_CARIB|
+DePaz|"Of peace"|Spanish|Sephardic|Spain, Amsterdam, Caribbean|SEPH_CARIB|1
+DeSola|Sephardic family name, said to come from Spain|Spanish|Sephardic|Spain, Amsterdam, London, Curaçao, Canada|SEPH_CARIB|
+Disraeli|"Of Israel" (d'Israeli)|Italian + Hebrew|Sephardic / Italki|Italy, England|SEPH_IT|
+Dreyfus|From the town of Trier (Yiddish "Dreyfus")|German/Yiddish (place)|Ashkenazi|Alsace, France|ASH_G|
+Elbaz|"The falcon" (Arabic al-baz)|Arabic|Sephardic / Maghrebi|Morocco, Israel|SEPH_MAGH|
+Eliyahu|From the prophet Elijah|Hebrew|Mizrahi|Iraq, Iran, Israel|MIZ_IQ|
+Elkayam|North African Jewish family name|Arabic|Sephardic / Maghrebi|Morocco, Israel|SEPH_MAGH|
+Epstein|From the town Eppstein in Hesse|German (place)|Ashkenazi|Germany, Lithuania, USA|ASH_E|
+Ezekiel|From the prophet Ezekiel|Hebrew|Mizrahi / Bene Israel|Iraq, India, England|MIZ_IQ|1
+Fainberg|Variant of Feinberg ("fine mountain")|German/Yiddish|Ashkenazi|Russia, Ukraine|ASH_E|
+Feinberg|"Fine mountain" (ornamental)|German/Yiddish|Ashkenazi|Germany, Russia, USA|ASH_E|
+Fernandes|"Son of Fernando"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Caribbean, India|SEPH_CARIB|1
+Finkelstein|"Sparkle-stone" (ornamental)|German/Yiddish|Ashkenazi|Poland, Russia, USA|ASH_E|
+Fonseca|Iberian place name ("dry spring")|Portuguese/Spanish|Sephardic (also non-Jewish)|Portugal, Amsterdam, Caribbean|SEPH_CARIB|1
+Franco|"Free / Frank"|Spanish/Italian|Sephardic (also non-Jewish)|Spain, Italy, Ottoman Empire|SEPH_OTT|1
+Frank|"Frank / free" or "from Franconia"|German|Ashkenazi (also non-Jewish)|Germany, Netherlands|ASH_G|1
+Friedman|"Man of peace" (often for Hebrew Shlomo)|German/Yiddish|Ashkenazi|Germany, Poland, Hungary, USA|ASH_E|1
+Frumkin|From Yiddish female name Frume ("pious")|Yiddish + Slavic|Ashkenazi|Belarus, Russia|ASH_E|
+Gabay|"Synagogue official / treasurer" (gabbai)|Hebrew/Aramaic|Sephardic / Mizrahi|Morocco, Iraq, Israel|SEPH_MAGH|
+Gaon|"Genius / eminence" — title of Babylonian academy heads|Hebrew|Sephardic|Ottoman Empire, Bosnia, Israel|SEPH_OTT|
+Gerson|From the name Gershom/Gershon|Hebrew|Ashkenazi / Sephardic|Germany, France, England|ASH_G|1
+Ginsburg|From the town Günzburg in Bavaria|German (place)|Ashkenazi|Germany, Lithuania, USA|ASH_E|
+Gluckstein|"Luck stone" (ornamental)|German/Yiddish|Ashkenazi|Germany, England|ASH_G|
+Gold|"Gold" (ornamental)|German/Yiddish|Ashkenazi (also non-Jewish)|Germany, Poland, USA|ASH_E|1
+Goldberg|"Gold mountain" (ornamental)|German/Yiddish|Ashkenazi|Germany, Poland, USA|ASH_E|
+Goldman|"Gold man"; also from female name Golde|German/Yiddish|Ashkenazi|Germany, Poland, USA|ASH_E|1
+Goldstein|"Gold stone" (ornamental)|German/Yiddish|Ashkenazi|Germany, Poland, USA|ASH_E|
+Gomes|Iberian given name turned surname|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Caribbean|SEPH_CARIB|1
+Gomez|Iberian patronymic|Spanish|Sephardic (also non-Jewish)|Spain, New York, Caribbean|SEPH_CARIB|1
+Gottlieb|"God-love" (translation of Hebrew name Yedidyah)|German|Ashkenazi (also non-Jewish)|Germany, Hungary, USA|ASH_G|1
+Greenberg|"Green mountain" (ornamental)|German/Yiddish|Ashkenazi|Poland, Russia, USA|ASH_E|
+Gross|"Big"|German|Ashkenazi (also non-Jewish)|Germany, Hungary, USA|ASH_G|1
+Guggenheim|From the village Gugenheim in Alsace|German (place)|Ashkenazi|Switzerland, Alsace, USA|ASH_G|
+Gutman|"Good man"|German/Yiddish|Ashkenazi|Germany, Poland, USA|ASH_E|1
+Haddad|"Smith / ironworker"|Arabic|Mizrahi (also non-Jewish)|Tunisia, Libya, Iraq, Syria|MIZ_SY|1
+Halevi|"The Levite"|Hebrew|All communities|Worldwide|GEN|
+Halperin|From the town Heilbronn ("Halpern")|German (place)|Ashkenazi|Germany, Poland, Ukraine|ASH_E|
+Hamburger|From the city of Hamburg|German (place)|Ashkenazi|Germany, England, USA|ASH_G|1
+Hassan|Arabic "handsome / good"|Arabic|Mizrahi / Sephardic (also non-Jewish)|Morocco, Iraq, Gibraltar|MIZ_IQ|1
+Hayyim|"Life"|Hebrew|Sephardic / Mizrahi|Ottoman Empire, Iraq|SEPH_OTT|
+Heine|From the Hebrew name Hayyim (Heinemann)|German|Ashkenazi|Germany|ASH_G|1
+Heller|From the coin "Heller" or the town Hall|German|Ashkenazi (also non-Jewish)|Germany, Bohemia, Austria|ASH_G|1
+Henriques|"Son of Henrique"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, London, Jamaica|SEPH_CARIB|1
+Herzl|Diminutive of Yiddish Hirsch ("deer")|German/Yiddish|Ashkenazi|Hungary, Austria|ASH_G|
+Hirsch|"Deer" — linked to Naftali (Genesis 49:21)|German/Yiddish|Ashkenazi|Germany, Austria, USA|ASH_G|1
+Horowitz|From the town Hořovice in Bohemia|Czech (place)|Ashkenazi|Bohemia, Poland, USA|ASH_E|
+Ibn Ezra|"Son of Ezra"|Arabic + Hebrew|Sephardic|Spain|SEPH_OTT|
+Israel|"Israel"|Hebrew|All communities|Worldwide|GEN|1
+Isaacs|"Son of Isaac"|Hebrew + English|Ashkenazi / Sephardic|England, Jamaica, Australia|ASH_NL|1
+Jacobs|"Son of Jacob"|Hebrew + English/Dutch|Ashkenazi / Sephardic (also non-Jewish)|Netherlands, England, Jamaica|ASH_NL|1
+Jaffe|"Beautiful" (Hebrew yafeh)|Hebrew|Ashkenazi|Bohemia, Poland, Germany|ASH_E|
+Kagan|"Priest" (Russian form of Kohen)|Hebrew via Russian|Ashkenazi|Russia, Lithuania, Ukraine|ASH_E|
+Kaplan|"Chaplain" — a translation of Kohen|German/Polish|Ashkenazi|Lithuania, Poland, USA|ASH_E|1
+Karo|Spanish surname (see Caro); Rabbi Joseph Karo|Spanish|Sephardic|Spain, Turkey, Safed|SEPH_OTT|
+Katz|Hebrew acronym "kohen tzedek" (righteous priest)|Hebrew|Ashkenazi|Germany, Poland, USA|ASH_E|
+Kimchi|Sephardic family name (Kimhi), Provençal grammarians|Arabic/Hebrew|Sephardic|Spain, Provence|FR|
+Klein|"Small"|German|Ashkenazi (also non-Jewish)|Germany, Hungary, USA|ASH_G|1
+Kohn|"Priest" (kohen)|Hebrew|Ashkenazi|Bohemia, Hungary, Germany|ASH_G|
+Kramer|"Shopkeeper / peddler"|German/Yiddish|Ashkenazi (also non-Jewish)|Germany, Poland, USA|ASH_E|1
+Kugel|From kugel (Yiddish pudding / ball)|Yiddish|Ashkenazi|Poland, Lithuania|ASH_E|
+Laguna|"Lagoon"; Sephardic family (Daniel Israel López Laguna, Jamaica)|Spanish|Sephardic (also non-Jewish)|Portugal, Amsterdam, Jamaica|SEPH_CARIB|1
+Landau|From the town Landau in the Palatinate|German (place)|Ashkenazi|Germany, Poland, Galicia|ASH_E|1
+Lazarus|From Eleazar ("God has helped")|Hebrew via Greek|Ashkenazi / Sephardic|Germany, England, USA|ASH_G|1
+Leão|"Lion"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Brazil|SEPH_CARIB|1
+Lehman|"Vassal / feudal tenant"|German|Ashkenazi (also non-Jewish)|Germany, USA|ASH_G|1
+Levi|"Levite" — descendant of the tribe of Levi|Hebrew|All communities|Worldwide|GEN|1
+Levin|Slavicized form of Levi|Hebrew + Slavic|Ashkenazi|Russia, Lithuania, USA|ASH_E|1
+Levine|Variant of Levin (Levite)|Hebrew + Slavic|Ashkenazi|Russia, USA|ASH_E|
+Levinson|"Son of Levin (Levite)"|Hebrew + Slavic|Ashkenazi|Russia, Lithuania, USA|ASH_E|
+Levy|"Levite"|Hebrew|All communities|Worldwide (strong in Sephardic, French and Jamaican communities)|GEN|
+Lewin|"Levite"|Hebrew + Slavic|Ashkenazi|Germany, Poland|ASH_E|1
+Lindo|"Handsome / pretty"; Sephardic family in London and Jamaica|Spanish/Portuguese|Sephardic|Spain, London, Jamaica|SEPH_CARIB|1
+Lipschitz|From the town Liebschütz/Glubczyce in Silesia|German/Polish (place)|Ashkenazi|Silesia, Poland, USA|ASH_E|
+Loeb|"Lion" (Yiddish Leyb, linked to Judah)|German/Yiddish|Ashkenazi|Germany, USA|ASH_G|
+Lopes|"Son of Lope (wolf)"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, London, Caribbean|SEPH_CARIB|1
+Lopez|"Son of Lope (wolf)"|Spanish|Sephardic (also non-Jewish)|Spain, Amsterdam, Jamaica, Newport|SEPH_CARIB|1
+Lousada|From the town Lousada, Portugal|Portuguese (place)|Sephardic|Portugal, London, Jamaica|SEPH_CARIB|1
+Luria|Possibly from Loria / Lauria in Italy|Italian (place)|Ashkenazi / Italki|Italy, Germany, Poland, Safed|ASH_E|1
+Machado|"Axe"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, New York|SEPH_CARIB|1
+Maduro|"Ripe / mature"|Portuguese/Spanish|Sephardic|Portugal, Amsterdam, Curaçao|SEPH_CARIB|1
+Maimon|From Arabic/Hebrew "fortunate"; father of Maimonides|Arabic|Sephardic|Spain, Morocco, Egypt|SEPH_MAGH|
+Mann|"Man"; often from Yiddish name Menachem|German/Yiddish|Ashkenazi (also non-Jewish)|Germany, USA|ASH_G|1
+Marcus|From Latin Marcus, used for Mordecai|Latin|Ashkenazi|Germany, England, USA|ASH_G|1
+Margolis|"Pearl" (Hebrew margalit)|Hebrew via Greek|Ashkenazi|Poland, Lithuania, USA|ASH_E|
+Marks|English form of Marcus / Mordecai|English|Ashkenazi (also non-Jewish)|England, USA|ASH_NL|1
+Massiah|Sephardic family name ("Messiah")|Hebrew|Sephardic|Barbados, Jamaica, London|SEPH_CARIB|
+Mendelssohn|"Son of Mendel" (Menachem)|Yiddish/German|Ashkenazi|Germany|ASH_G|
+Mendes|"Son of Mendo"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, London, Jamaica|SEPH_CARIB|1
+Mendez|"Son of Mendo"|Spanish|Sephardic (also non-Jewish)|Spain, Caribbean|SEPH_CARIB|1
+Mendoza|Basque place name ("cold mountain")|Basque/Spanish (place)|Sephardic (also non-Jewish)|Spain, London (boxer Daniel Mendoza)|SEPH_CARIB|1
+Meyer|From Hebrew Meir ("one who shines")|Hebrew/German|Ashkenazi (also non-Jewish)|Germany, France, USA|ASH_G|1
+Mizrahi|"Easterner"|Hebrew|Mizrahi / Sephardic|Turkey, Syria, Iraq, Israel|MIZ_SY|
+Modigliani|From the town Modigliana in Italy|Italian (place)|Italki|Italy|IT|
+Mocatta|Sephardic family name of Moorish/Spanish origin|Spanish/Arabic|Sephardic|Spain, Amsterdam, London|SEPH_CARIB|
+Montefiore|"Mountain of flowers" (Italian)|Italian|Sephardic|Livorno, London|SEPH_IT|
+Montezinos|Sephardic family; Antonio de Montezinos (Aharon Levi)|Portuguese|Sephardic|Portugal, Amsterdam|SEPH_CARIB|
+Mordecai|From biblical Mordecai|Hebrew|All communities|USA, Jamaica, Iraq|GEN|1
+Moreno|"Dark-haired / brown"|Spanish|Sephardic (also non-Jewish)|Spain, Ottoman Empire, Amsterdam|SEPH_OTT|1
+Morpurgo|From the town Marburg/Maribor|Italian (place)|Italki|Italy (Trieste, Gorizia)|IT|
+Moses|"Moses"|Hebrew|All communities (also non-Jewish)|England, USA, Jamaica|GEN|1
+Nahon|North African / Sephardic family name|Hebrew|Sephardic|Morocco, Gibraltar, Portugal|SEPH_MAGH|
+Nahmias|Spanish-Jewish name, possibly from Hebrew "nechemyah" (comfort of God)|Hebrew|Sephardic|Spain, Ottoman Empire|SEPH_OTT|
+Nasi|"Prince / president"; Doña Gracia Nasi|Hebrew|Sephardic|Portugal, Antwerp, Venice, Istanbul|SEPH_OTT|
+Nathan|"He gave"|Hebrew|All communities|England, Jamaica, USA|GEN|1
+Navarro|"From Navarre"|Spanish (place)|Sephardic (also non-Jewish)|Spain, Ottoman Empire, Caribbean|SEPH_OTT|1
+Nunes|"Son of Nuno"|Portuguese|Sephardic (also non-Jewish)|Portugal, London, Jamaica, Georgia (USA)|SEPH_CARIB|1
+Nunez|"Son of Nuño"|Spanish|Sephardic (also non-Jewish)|Spain, Caribbean|SEPH_CARIB|1
+Ohana|North African Jewish family name|Hebrew/Berber|Sephardic / Maghrebi|Morocco, Algeria, Israel|SEPH_MAGH|
+Oppenheim|From the town Oppenheim on the Rhine|German (place)|Ashkenazi|Germany, Austria|ASH_G|1
+Oppenheimer|"From Oppenheim"|German (place)|Ashkenazi|Germany, USA|ASH_G|
+Pardo|"Grey / brownish"|Spanish|Sephardic (also non-Jewish)|Spain, Amsterdam, Ottoman Empire, Curaçao|SEPH_CARIB|1
+Peixotto|Sephardic family name, Portuguese "fish" (peixe)|Portuguese|Sephardic|Portugal, Amsterdam, Curaçao, New York|SEPH_CARIB|
+Pereira|"Pear tree"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, London, Jamaica|SEPH_CARIB|1
+Perez|"Son of Pero (Peter)"; or Hebrew Peretz ("breach")|Spanish / Hebrew|Sephardic (also non-Jewish)|Spain, Ottoman Empire, Caribbean|SEPH_CARIB|1
+Pimentel|"Pepper grower / seller"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Caribbean|SEPH_CARIB|1
+Pinto|"Painted / spotted"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Morocco, Caribbean|SEPH_CARIB|1
+Pissarro|Sephardic family; painter Camille Pissarro (St. Thomas)|Portuguese|Sephardic|Portugal, Bordeaux, St. Thomas|SEPH_CARIB|
+Polak|"From Poland"|Polish/Dutch|Ashkenazi|Netherlands, Poland|ASH_NL|1
+Rabinowitz|"Son of the rabbi"|Hebrew + Slavic|Ashkenazi|Lithuania, Russia, USA|ASH_E|
+Rapoport|From Porto (Italy) + Rapa (raven) family sign|Italian/German|Ashkenazi|Italy, Germany, Poland|ASH_E|
+Reuben|From Reuben, son of Jacob|Hebrew|All communities|Iraq, India, England|GEN|1
+Ricardo|"Richard"; economist David Ricardo (Sephardic)|Spanish/Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, London|SEPH_CARIB|1
+Rivera|"Riverbank"|Spanish|Sephardic (also non-Jewish)|Spain, Newport (USA), Caribbean|SEPH_CARIB|1
+Rodrigues|"Son of Rodrigo"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Caribbean|SEPH_CARIB|1
+Rosen|"Roses" (ornamental)|German/Yiddish|Ashkenazi (also non-Jewish)|Germany, Poland, USA|ASH_E|1
+Rosenberg|"Rose mountain" (ornamental)|German/Yiddish|Ashkenazi (also non-Jewish)|Germany, Poland, USA|ASH_E|1
+Rosenthal|"Rose valley" (ornamental)|German/Yiddish|Ashkenazi|Germany, Poland, USA|ASH_E|1
+Rothschild|"Red shield" — the house sign in Frankfurt's Judengasse|German|Ashkenazi|Frankfurt, London, Paris, Vienna|ASH_G|
+Rubin|From Reuben|Hebrew|Ashkenazi|Poland, Russia, USA|ASH_E|1
+Saadia|From Hebrew Saadyah ("God's help")|Hebrew/Arabic|Mizrahi / Yemenite|Yemen, Egypt, Israel|YEM|
+Sabbagh|"Dyer"|Arabic|Mizrahi (also non-Jewish)|Syria, Iraq|MIZ_SY|1
+Salama|"Peace / safety"|Arabic|Sephardic / Mizrahi (also non-Jewish)|Morocco, Egypt, Syria|MIZ_SY|1
+Salomon|From Solomon (Shlomo, "peace")|Hebrew|All communities (also non-Jewish)|Germany, France, Netherlands|GEN|1
+Samuel|From prophet Samuel|Hebrew|All communities (also non-Jewish)|England, Jamaica, India|GEN|1
+Sasso|Sephardic family name ("stone", Italian/Ladino)|Italian/Spanish|Sephardic|Spain, Amsterdam, Curaçao, Jamaica|SEPH_CARIB|1
+Sassoon|From Hebrew sason ("joy")|Hebrew|Mizrahi (Baghdadi)|Baghdad, Bombay, Shanghai, London|MIZ_IQ|
+Schapiro|From the city of Speyer (Shpira)|German (place)|Ashkenazi|Germany, Poland, Russia|ASH_E|
+Schneider|"Tailor"|German/Yiddish|Ashkenazi (also non-Jewish)|Germany, Poland, USA|ASH_E|1
+Schwartz|"Black"|German/Yiddish|Ashkenazi (also non-Jewish)|Germany, Hungary, USA|ASH_E|1
+Segal|Hebrew acronym "segan leviyah" (assistant of the Levites)|Hebrew|Ashkenazi|Poland, Russia, USA|ASH_E|
+Seixas|From Seixas, a place in Portugal|Portuguese (place)|Sephardic|Portugal, London, New York|SEPH_CARIB|1
+Senior|"Senior / elder"; Converso family (Abraham Senior)|Spanish|Sephardic (also non-Jewish)|Spain, Amsterdam, Curaçao, Jamaica|SEPH_CARIB|1
+Serfaty|"From France" (Hebrew Tzarfat = France)|Hebrew|Sephardic|Morocco, Gibraltar, Israel|SEPH_MAGH|
+Shalom|"Peace"|Hebrew|Mizrahi / Yemenite|Yemen, Iraq, Israel|YEM|
+Shapiro|From the city of Speyer|German (place)|Ashkenazi|Poland, Russia, USA|ASH_E|
+Sharabi|Yemenite name, from the Sharab region|Arabic (place)|Yemenite|Yemen, Israel|YEM|
+Shasha|Iraqi Jewish family name|Arabic|Mizrahi|Baghdad, India, England|MIZ_IQ|
+Shemtov|"Good name"|Hebrew|Sephardic|Spain, Ottoman Empire|SEPH_OTT|
+Siegel|"Seal" or variant of Segal|German/Hebrew|Ashkenazi|Germany, USA|ASH_G|1
+Silva|"Forest"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Caribbean|SEPH_CARIB|1
+Silverman|"Silver man" (ornamental/occupational)|German/Yiddish|Ashkenazi|Poland, Russia, USA|ASH_E|1
+Silverstein|"Silver stone" (ornamental)|German/Yiddish|Ashkenazi|Poland, Russia, USA|ASH_E|
+Singer|"Cantor" (hazzan)|German/Yiddish|Ashkenazi (also non-Jewish)|Hungary, Poland, USA|ASH_E|1
+Sofer|"Scribe"|Hebrew|Ashkenazi / Sephardic|Hungary, Germany, Israel|ASH_G|
+Soncino|From the town Soncino, Italy (famous printers)|Italian (place)|Italki / Ashkenazi|Italy, Ottoman Empire|IT|
+Spinoza|From Espinosa, a place in Spain ("thorny")|Spanish/Portuguese (place)|Sephardic|Portugal, Amsterdam|SEPH_CARIB|1
+Stern|"Star" — often from a house sign|German/Yiddish|Ashkenazi (also non-Jewish)|Germany, USA|ASH_G|1
+Strauss|"Ostrich" (house sign) or "bouquet"|German|Ashkenazi (also non-Jewish)|Germany, USA|ASH_G|1
+Suissa|"From Sousse" (Tunisia), or "Swiss"|Arabic (place)|Sephardic / Maghrebi|Morocco, Israel|SEPH_MAGH|
+Tamayo|Spanish place name|Spanish (place)|Sephardic (also non-Jewish)|Spain, Caribbean|SEPH_CARIB|1
+Toledano|"From Toledo"|Spanish (place)|Sephardic|Spain, Morocco, Israel|SEPH_MAGH|1
+Treves|From the city of Trier (Treves)|French/Italian (place)|Italki / Ashkenazi|France, Italy|IT|1
+Valensi|"From Valencia"|Spanish (place)|Sephardic|Spain, Tunisia, Italy|SEPH_MAGH|1
+Vaz|Iberian patronymic|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, India, Caribbean|SEPH_CARIB|1
+Weiss|"White"|German|Ashkenazi (also non-Jewish)|Germany, Hungary, USA|ASH_G|1
+Wertheimer|From the town Wertheim|German (place)|Ashkenazi|Germany, Austria|ASH_G|
+Yitzhaki|"Son of Isaac"|Hebrew|Sephardic / Mizrahi|Israel|GEN|
+Zacuto|Spanish Jewish family; astronomer Abraham Zacuto|Spanish|Sephardic|Spain, Portugal, Tunis, Jerusalem|SEPH_MAGH|
+Zimmerman|"Carpenter"|German|Ashkenazi (also non-Jewish)|Germany, Poland, USA|ASH_E|1
+Zuckerman|"Sugar man / sugar seller"|German/Yiddish|Ashkenazi|Poland, Russia, USA|ASH_E|
+Abecassis|North African Sephardic name ("Abu" + Arabic)|Arabic|Sephardic|Morocco, Portugal, Israel|SEPH_MAGH|
+Abergel|Moroccan Jewish family name of Berber origin|Berber|Sephardic / Maghrebi|Morocco, Israel|SEPH_MAGH|
+Abitbol|Moroccan Jewish name of Arabic origin|Arabic|Sephardic / Maghrebi|Morocco, Israel, Canada|SEPH_MAGH|
+Abutbul|Variant of Abitbol|Arabic|Sephardic / Maghrebi|Morocco, Israel|SEPH_MAGH|
+Albaz|"The falcon"|Arabic|Sephardic / Maghrebi|Morocco, Israel|SEPH_MAGH|
+Alcalay|"From Alcalá" (Spanish towns; from Arabic al-qal'a, the fort)|Spanish (place)|Sephardic|Spain, Bulgaria, Serbia, Turkey|SEPH_OTT|
+Algazi|"The warrior" (Arabic al-ghazi)|Arabic|Sephardic|Ottoman Empire (Izmir), Israel|SEPH_OTT|
+Altaras|Sephardic family name|Spanish/Arabic|Sephardic|Spain, Syria, Italy, France|SEPH_OTT|
+Amiel|Hebrew name ("my people is God")|Hebrew|Sephardic|Morocco, France, Israel|SEPH_MAGH|
+Ashkenazy|Variant of Ashkenazi|Hebrew|Ashkenazi|Russia, Israel|ASH_E|
+Bassan|From Bassano, a town in Italy|Italian (place)|Italki|Italy, England|IT|1
+Bekhor|"Firstborn"|Hebrew|Sephardic / Bukharan|Turkey, Bukhara, Israel|BUKH|
+Benaim|"Son of pleasant one" (ben + Hebrew naim)|Hebrew|Sephardic|Morocco, Gibraltar, Israel|SEPH_MAGH|
+Benoliel|Moroccan/Gibraltar Sephardic family name|Hebrew|Sephardic|Morocco, Gibraltar, Portugal, Brazil|SEPH_MAGH|
+Benchimol|Moroccan Sephardic family name|Hebrew/Arabic|Sephardic|Morocco, Gibraltar, Brazil (Amazon)|SEPH_MAGH|
+Bitton|Variant of Biton|Arabic/Berber|Sephardic / Maghrebi|Morocco, Israel, France|SEPH_MAGH|
+Bueno de Mesquita|"Good" + Mesquita (place in Portugal)|Portuguese|Sephardic|Portugal, Amsterdam, London, Jamaica|SEPH_CARIB|
+Calderon|"Cauldron / kettle maker"|Spanish|Sephardic (also non-Jewish)|Spain, Ottoman Empire|SEPH_OTT|1
+Capsali|Romaniote (Greek Jewish) family name|Greek|Romaniote|Crete, Constantinople|ROM|
+Cassuto|Italian Jewish family name|Italian|Italki|Florence, Italy, Israel|IT|
+Castel|"Castle"|Spanish/Catalan|Sephardic (also non-Jewish)|Spain, Ottoman Empire, Morocco|SEPH_OTT|1
+Chelebi|Turkish honorific "gentleman"|Turkish|Sephardic|Ottoman Empire|SEPH_OTT|1
+Cohen Henriques|Combined Cohen + Henriques (priestly Sephardic line)|Hebrew + Portuguese|Sephardic|Amsterdam, Jamaica, Curaçao|SEPH_CARIB|
+Cordovero|"From Córdoba"|Spanish (place)|Sephardic|Spain, Safed|SEPH_OTT|
+DaFonseca|"Of the dry spring"|Portuguese|Sephardic|Portugal, Amsterdam, Brazil, Caribbean|SEPH_CARIB|
+Dayan|"Rabbinical judge"|Hebrew|Mizrahi / Sephardic|Syria, Iraq, Israel|MIZ_SY|
+DeCastro|"Of the castle / fort"|Portuguese/Spanish|Sephardic|Portugal, Amsterdam, Jamaica, Curaçao|SEPH_CARIB|1
+DeMercado|"Of the market"|Spanish/Portuguese|Sephardic|Spain, Amsterdam, Barbados, Jamaica|SEPH_CARIB|
+DeSouza|"Of Sousa" (river/place in Portugal)|Portuguese (place)|Sephardic (also non-Jewish)|Portugal, Amsterdam, Jamaica|SEPH_CARIB|1
+Delvalle|"Of the valley"|Spanish|Sephardic (also non-Jewish)|Spain, Amsterdam, Jamaica|SEPH_CARIB|1
+Eskenazi|Variant of Ashkenazi used among Sephardim|Hebrew|Sephardic|Turkey, Greece, Bulgaria|SEPH_OTT|
+Falcon|"Falcon"|Spanish|Sephardic (also non-Jewish)|Spain, Caribbean|SEPH_CARIB|1
+Farhi|Syrian Jewish family; "joyful" (Arabic/Hebrew)|Arabic|Mizrahi|Damascus, Lebanon, Israel|MIZ_SY|
+Florentin|"From Florence"|Italian (place)|Sephardic|Salonica, Turkey, Israel|SEPH_OTT|1
+Gabbai|"Synagogue treasurer"|Hebrew/Aramaic|Mizrahi|Iraq, India, Israel|MIZ_IQ|
+Ghatan|Persian Jewish family name|Persian|Mizrahi (Persian)|Iran, USA|MIZ_PER|
+Habib|"Beloved"|Arabic/Hebrew|Mizrahi / Sephardic (also non-Jewish)|Morocco, Syria, Iraq|MIZ_SY|1
+Hakim|"Doctor / wise one"|Arabic/Persian|Mizrahi (also non-Jewish)|Iran, Iraq, Israel|MIZ_PER|1
+Hakimi|"Of the doctor / wise man"|Persian|Mizrahi (Persian)|Iran, Afghanistan, Israel|MIZ_PER|1
+Ibgui|North African Jewish name|Berber/Arabic|Sephardic / Maghrebi|Morocco, Israel|SEPH_MAGH|
+Israeli|"Israelite"|Hebrew|Sephardic|Italy, Turkey, Israel|SEPH_OTT|1
+Judah|From Judah, son of Jacob|Hebrew|All communities|England, Jamaica, Iraq|GEN|1
+Kadoorie|Baghdadi Jewish family name|Arabic|Mizrahi (Baghdadi)|Baghdad, Bombay, Hong Kong|MIZ_IQ|
+Kalimi|Persian Jewish family name|Persian|Mizrahi (Persian)|Iran, Israel|MIZ_PER|
+Katan|"Small"|Hebrew|Sephardic|Tunisia, Israel|SEPH_MAGH|
+Kattan|"Cotton merchant"|Arabic|Mizrahi (also non-Jewish)|Syria, Lebanon, Iraq|MIZ_SY|1
+Lagos|From Lagos, a town in Portugal|Portuguese (place)|Sephardic (also non-Jewish)|Portugal, Caribbean|SEPH_CARIB|1
+Levy-Yeyati|Combined Levy + Yeyati|Hebrew|Sephardic|Spain, Morocco|SEPH_MAGH|
+Lumbroso|"Bright / luminous"|Spanish/Portuguese|Sephardic|Portugal, Tunisia, Italy|SEPH_IT|
+Luzzatto|From Lausitz (Lusatia) region|Italian|Italki|Venice, Trieste|IT|
+Maman|North African Jewish family name|Arabic|Sephardic / Maghrebi|Morocco, Israel, France|SEPH_MAGH|
+Mashiach|"Messiah / anointed"|Hebrew|Mizrahi|Iraq, Israel|MIZ_IQ|
+Matalon|Sephardic family name|Spanish|Sephardic|Salonica, Turkey, Jamaica|SEPH_OTT|
+Mattos|"Woods / thickets"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Caribbean|SEPH_CARIB|1
+Melamed|"Teacher"|Hebrew|Mizrahi / Bukharan / Ashkenazi|Iran, Bukhara, Russia|MIZ_PER|
+Meldola|From Meldola, a town in Italy|Italian (place)|Sephardic / Italki|Livorno, Amsterdam, London|SEPH_IT|
+Mesquita|Portuguese place name|Portuguese (place)|Sephardic|Portugal, Amsterdam, London|SEPH_CARIB|1
+Musafia|Sephardic family name|Arabic|Sephardic|Spain, Ottoman Empire, Italy|SEPH_OTT|
+Nahum|From the prophet Nahum ("comfort")|Hebrew|Mizrahi / Sephardic|Libya, Iraq, Turkey|MIZ_IQ|1
+Nissim|"Miracles"|Hebrew|Mizrahi / Sephardic|Iraq, Turkey, India|MIZ_IQ|
+Noah|From Noah ("rest")|Hebrew|All communities (also non-Jewish)|USA, England|GEN|1
+Obadia|"Servant of God"|Hebrew|Sephardic|Morocco, Gibraltar|SEPH_MAGH|1
+Orobio|Basque place name; Isaac Orobio de Castro|Spanish (place)|Sephardic|Spain, Amsterdam|SEPH_CARIB|
+Pacifici|"Peaceful"|Italian|Italki|Italy|IT|1
+Palache|Moroccan Sephardic family (Samuel Pallache)|Spanish/Arabic|Sephardic|Morocco, Amsterdam, Turkey|SEPH_MAGH|
+Perera|Spanish form of Pereira ("pear tree")|Spanish|Sephardic|Spain, Ottoman Empire, Caribbean|SEPH_CARIB|1
+Piha|Sephardic family name|Spanish|Sephardic|Turkey, Rhodes, Israel|SEPH_OTT|
+Racah|North African / Italian Jewish family|Arabic/Hebrew|Sephardic / Italki|Livorno, Libya|SEPH_IT|
+Recanati|From the town Recanati, Italy|Italian (place)|Italki / Sephardic|Italy, Salonica, Israel|IT|
+Roffe|"Doctor / healer" (Hebrew rofe)|Hebrew|Sephardic / Romaniote|Greece, Turkey, England|ROM|
+Romano|"Roman"|Italian|Italki / Sephardic (also non-Jewish)|Rome, Ottoman Empire|IT|1
+Sabban|"Soap maker"|Arabic|Mizrahi / Sephardic|Morocco, Tunisia|SEPH_MAGH|1
+Saban|"Soap maker"|Arabic|Sephardic|Turkey, Egypt, Israel|SEPH_OTT|1
+Safra|Syrian Jewish family; Aramaic "scribe" (safra)|Aramaic|Mizrahi|Aleppo, Beirut, Brazil|MIZ_SY|
+Salem|"Peace / complete"|Arabic/Hebrew|Mizrahi / Sephardic (also non-Jewish)|Morocco, Syria|MIZ_SY|1
+Saporta|"Of the gate" (Catalan sa porta)|Catalan|Sephardic|Catalonia, Provence, Ottoman Empire|SEPH_OTT|
+Sarfati|"French" (Tzarfat = France)|Hebrew|Sephardic|Morocco, France, Israel|SEPH_MAGH|
+Semah|"Sprout"|Hebrew|Mizrahi|Iraq, Israel|MIZ_IQ|
+Shamash|"Synagogue beadle"|Hebrew|Mizrahi / Ashkenazi|Iraq, Poland|MIZ_IQ|
+Sion|"Zion"|Hebrew|Sephardic (also non-Jewish)|Turkey, France, Israel|SEPH_OTT|1
+Soria|"From Soria" (Spain)|Spanish (place)|Sephardic (also non-Jewish)|Spain, Amsterdam, Curaçao, Jamaica|SEPH_CARIB|1
+Tagger|"Merchant" (Arabic tajir)|Arabic|Mizrahi / Sephardic|Turkey, Egypt|MIZ_SY|1
+Taragan|"Chicken seller"|Ladino|Sephardic|Turkey, Israel|SEPH_OTT|
+Uziel|"God is my strength"|Hebrew|Sephardic|Spain, Salonica, Morocco, Amsterdam|SEPH_OTT|
+Valencia|"From Valencia"|Spanish (place)|Sephardic (also non-Jewish)|Spain, Caribbean|SEPH_CARIB|1
+Varon|Variant of Baron|Spanish/Ladino|Sephardic (also non-Jewish)|Ottoman Empire, Rhodes, Seattle|SEPH_OTT|1
+Ventura|"Good fortune"|Spanish/Portuguese|Sephardic (also non-Jewish)|Spain, Ottoman Empire, Caribbean|SEPH_CARIB|1
+Yadgar|Persian/Bukharan "memento"|Persian|Bukharan / Persian|Bukhara, Iran, Israel|BUKH|
+Yehuda|"Judah"|Hebrew|Mizrahi / Sephardic|Iraq, Morocco, Israel|MIZ_IQ|1
+Yona|"Dove"|Hebrew|Mizrahi / Sephardic|Iraq, Turkey|MIZ_IQ|1
+Zakai|"Pure / innocent"|Hebrew|Mizrahi|Kurdistan, Israel|MIZ_IQ|
+Zarfati|Variant of Sarfati ("French")|Hebrew|Sephardic|Morocco, Ottoman Empire|SEPH_MAGH|
+Zion|"Zion"|Hebrew|Sephardic / Mizrahi|Israel|GEN|1
+Abraham Nunes|Combined form common in Jamaica|Hebrew + Portuguese|Sephardic|Jamaica|SEPH_CARIB|
+Aarons|"Son of Aaron"|Hebrew + English|Ashkenazi / Sephardic|England, Jamaica, Australia|ASH_NL|1
+Belisario|Sephardic family; painter Isaac Mendes Belisario (Jamaica)|Spanish/Italian|Sephardic|London, Jamaica|SEPH_CARIB|1
+Brandon|Sephardic family in Jamaica and Barbados (Brandão)|Portuguese|Sephardic (also non-Jewish)|Portugal, Barbados, Jamaica|SEPH_CARIB|1
+Codrington|Not Jewish; included to warn: English place name|English|Non-Jewish|England, Barbados|GEN|1
+Gutteres|"Son of Gutierre"|Portuguese/Spanish|Sephardic|Portugal, Amsterdam, Jamaica|SEPH_CARIB|1
+Fidanque|Sephardic family name|Portuguese|Sephardic|Amsterdam, Jamaica, Panama|SEPH_CARIB|
+Ashenheim|From a German place name; Jewish family in Jamaica|German (place)|Ashkenazi|Germany, Jamaica|ASH_NL|
+Melhado|Sephardic family name|Portuguese|Sephardic|Amsterdam, Jamaica, Panama|SEPH_CARIB|
+DaCosta Andrade|Combined Sephardic name (Andrade = place in Portugal)|Portuguese|Sephardic|Amsterdam, Jamaica|SEPH_CARIB|
+Andrade|Portuguese/Galician place name|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Jamaica|SEPH_CARIB|1
+Bravo|"Brave / fierce"|Spanish/Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Jamaica, Curaçao|SEPH_CARIB|1
+Henriques Lindo|Combined Henriques + Lindo|Portuguese|Sephardic|Jamaica|SEPH_CARIB|
+Isaacs Lyons|—|English|Ashkenazi|Jamaica|ASH_NL|
+Lyon|"Lion" — often for Judah/Leib|English/French|Ashkenazi / Sephardic (also non-Jewish)|England, Jamaica, France|ASH_NL|1
+Matalon Jamaica|—|Spanish|Sephardic|Jamaica|SEPH_CARIB|
+Myers|English form of Meir ("one who shines")|English|Ashkenazi (also non-Jewish)|England, USA, Jamaica|ASH_NL|1
+Phillips|"Son of Philip" — used by Jews in England, Jamaica, USA|English|Ashkenazi / Sephardic (also non-Jewish)|England, USA, Jamaica|ASH_NL|1
+Ramos|"Branches"|Spanish/Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Caribbean|SEPH_CARIB|1
+Rodriques|Jamaican spelling of Rodrigues|Portuguese|Sephardic|Jamaica|SEPH_CARIB|1
+Sanches|"Son of Sancho"|Portuguese|Sephardic (also non-Jewish)|Portugal, Amsterdam, Jamaica|SEPH_CARIB|1
+Solomons|"Son of Solomon"|Hebrew + English|Ashkenazi / Sephardic|England, Jamaica|ASH_NL|1
+Abudarham|"Father of money" (Arabic)|Arabic|Sephardic|Spain, Gibraltar, Morocco|SEPH_MAGH|
+Bensadon|"Son of Sadon"|Hebrew|Sephardic|Morocco, Gibraltar|SEPH_MAGH|
+Cansino|Sephardic family (interpreters in Oran)|Spanish|Sephardic|Spain, Oran (Algeria)|SEPH_MAGH|
+Abadi|"Servant (of God)"|Arabic|Mizrahi|Aleppo, Damascus, Israel|MIZ_SY|1
+Antebi|"From Aintab" (Gaziantep, Turkey)|Arabic/Turkish (place)|Mizrahi (Syrian)|Aleppo, Israel, Brooklyn|MIZ_SY|
+Cattan|"Cotton merchant"|Arabic|Mizrahi|Syria, Mexico, Brazil|MIZ_SY|
+Dweck|Syrian Jewish family name|Arabic|Mizrahi (Syrian)|Aleppo, Brooklyn|MIZ_SY|
+Harari|"Silk merchant" (Arabic harir = silk)|Arabic|Mizrahi|Syria, Lebanon, Israel|MIZ_SY|
+Sutton|English form of Syrian "Setton"|Arabic/English|Mizrahi (Syrian) (also non-Jewish)|Aleppo, Brooklyn|MIZ_SY|1
+Moalem|"Master / teacher"|Arabic|Mizrahi|Syria, Iran|MIZ_SY|1
+Shamosh|"Synagogue beadle"|Hebrew/Arabic|Mizrahi|Aleppo, Israel|MIZ_SY|
+Khalastchi|Iraqi Jewish family name|Arabic|Mizrahi|Baghdad, England|MIZ_IQ|
+Twena|Iraqi Jewish family name|Arabic|Mizrahi|Baghdad, Israel|MIZ_IQ|
+Somekh|"Support" (Hebrew)|Hebrew|Mizrahi|Baghdad, Israel|MIZ_IQ|
+Moradi|Persian name, "wish / desire"|Persian|Mizrahi (Persian) (also non-Jewish)|Iran, Israel, USA|MIZ_PER|1
+Nazarian|Armenian-style surname common among Iranian Jews|Persian|Mizrahi (Persian) (also non-Jewish)|Iran, Los Angeles|MIZ_PER|1
+Yashar|"Upright"|Hebrew|Mizrahi|Iran, Turkey, Israel|MIZ_PER|
+Aminoff|"Son of Amin" (Persian/Russian)|Persian + Russian|Bukharan|Bukhara, Israel, New York|BUKH|
+Davidoff|"Son of David"|Hebrew + Russian|Bukharan / Ashkenazi|Bukhara, Russia, New York|BUKH|1
+Ishakov|"Son of Isaac"|Hebrew + Russian|Bukharan / Mountain Jew|Uzbekistan, Azerbaijan|BUKH|
+Fuzailov|Bukharan family name|Persian + Russian|Bukharan|Uzbekistan, Israel|BUKH|
+Mullokandov|"Son of the mullo (teacher)"|Persian + Russian|Bukharan|Samarkand, New York|BUKH|
+Tsadok|"Righteous"|Hebrew|Yemenite|Yemen, Israel|YEM|
+Damari|"From Dhamar" (Yemen)|Arabic (place)|Yemenite|Yemen, Israel|YEM|
+Mizrachi|Variant of Mizrahi ("Easterner")|Hebrew|Mizrahi|Israel|MIZ_SY|
+Tzabari|"From Sabir" (Yemen)|Arabic (place)|Yemenite|Yemen, Israel|YEM|
+Ovadia|"Servant of God"|Hebrew|Sephardic / Mizrahi|Iraq, Turkey, Israel|MIZ_IQ|1
+Kehimkar|"From Kehim" village (Konkan coast)|Marathi (place)|Bene Israel|Maharashtra (India), Israel|INDIA|
+Penkar|"From Pen" village|Marathi (place)|Bene Israel|Maharashtra (India), Israel|INDIA|
+Divekar|"From Dive" village|Marathi (place)|Bene Israel|Maharashtra (India), Israel|INDIA|
+Rajpurkar|"From Rajpur" village|Marathi (place)|Bene Israel|Maharashtra (India), Israel|INDIA|
+Talkar|"From Tala" village|Marathi (place)|Bene Israel|Maharashtra (India), Israel|INDIA|
+Hallegua|Cochin Jewish family name|Arabic/Hebrew|Cochin (Paradesi)|Kerala (India), Israel|INDIA|
+Koder|Cochin Jewish family|Hebrew/Malayalam|Cochin (Paradesi)|Kerala (India)|INDIA|
+Salem Cochin|—|Hebrew|Cochin|Kerala|INDIA|
+Gebru|Amharic name ("servant")|Amharic|Beta Israel (Ethiopian)|Ethiopia, Israel|ETH|1
+Mekonen|Amharic "noble / officer"|Amharic|Beta Israel (Ethiopian) (also non-Jewish)|Ethiopia, Israel|ETH|1
+Tadesse|Amharic "renewed"|Amharic|Beta Israel (Ethiopian) (also non-Jewish)|Ethiopia, Israel|ETH|1
+Yitzhak|"He will laugh" (Isaac)|Hebrew|All communities|Israel|GEN|
+Kapsali|Variant of Capsali|Greek|Romaniote|Crete, Ioannina|ROM|
+Matsas|Romaniote family name|Greek|Romaniote|Ioannina (Greece)|ROM|
+Negrin|"Dark-haired"|Spanish|Romaniote / Sephardic|Ioannina, Greece, Israel|ROM|1
+Levis|Greek form of Levi|Hebrew + Greek|Romaniote|Ioannina, Greece|ROM|
+Ascarelli|Roman Jewish family name|Italian|Italki|Rome|IT|
+Sermoneta|From the town Sermoneta, Italy|Italian (place)|Italki|Rome|IT|1
+Piperno|From the town Priverno (old name Piperno), Italy|Italian (place)|Italki|Rome|IT|1
+Terracina|From the town Terracina, Italy|Italian (place)|Italki|Rome|IT|1
+Di Segni|"Of the signs" (from Segni, a town near Rome)|Italian (place)|Italki|Rome|IT|
+Anticoli|From Anticoli Corrado, a town near Rome|Italian (place)|Italki|Rome|IT|
+Sonnino|From the town Sonnino, Italy|Italian (place)|Italki|Rome|IT|1
+Calimani|Venetian Jewish family name|Italian|Italki|Venice|IT|
+Carmi|"My vineyard"|Hebrew|Italki / Israeli|Italy, Israel|IT|
+Tedeschi|"Germans" — Jews of German origin in Italy|Italian|Italki / Ashkenazi|Italy|IT|1
+Ottolenghi|From Ettlingen in Germany|Italian/German (place)|Italki|Piedmont, Italy|IT|
+Foa|Italian Jewish family name|Italian|Italki|Piedmont, Italy|IT|
+Lattes|From Lattes, a town near Montpellier|French (place)|Italki / Provençal|Provence, Italy|IT|1
+Bedarride|From Bédarrides, a town in Provence|French (place)|French (Comtadin)|Provence, France|FR|
+Carcassonne|From the city of Carcassonne|French (place)|French (Comtadin)|Provence, France|FR|1
+Lunel|From the town of Lunel|French (place)|French (Comtadin)|Provence, France|FR|1
+Milhaud|From the town Millau|French (place)|French (Comtadin)|Provence, France|FR|1
+Naquet|Comtadin Jewish family name|French|French (Comtadin)|Provence, France|FR|
+Cavaillon|From the town of Cavaillon|French (place)|French (Comtadin)|Provence, France|FR|1

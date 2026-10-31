@@ -1,0 +1,29 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Jewish Names</title><link rel="manifest" href="manifest.json"><meta name="theme-color" content="#0c183a">
+<link rel="icon" href="favicon.png"><link rel="apple-touch-icon" href="apple-touch-icon.png">
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Roboto,sans-serif;background:#0b1430;color:#e8ecf7}
+header{background:linear-gradient(135deg,#0c183a,#1b2d66);padding:18px 16px;text-align:center;border-bottom:2px solid #e8be50}
+h1{margin:0;font-size:1.6rem;color:#f3d27a}header p{margin:4px 0 0;color:#b8c3e6;font-size:.95rem}
+main{max-width:900px;margin:auto;padding:14px}
+nav{display:flex;gap:6px;flex-wrap:wrap;justify-content:center;margin:10px 0}
+nav button,.btn{background:#1b2d66;color:#fff;border:1px solid #33478f;border-radius:10px;padding:10px 14px;font-size:1rem;cursor:pointer}
+nav button.on{background:#e8be50;color:#0c183a;font-weight:700}
+input,textarea,select{width:100%;padding:13px;border-radius:12px;border:1px solid #33478f;background:#111d42;color:#fff;font-size:1.05rem}
+.card{background:#121e45;border:1px solid #26387a;border-radius:14px;padding:14px;margin:10px 0;animation:in .35s}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1}}
+.row{cursor:pointer;display:flex;justify-content:space-between;gap:8px}.row:hover{border-color:#e8be50}
+.tag{display:inline-block;background:#26387a;border-radius:20px;padding:3px 10px;font-size:.8rem;margin:2px}
+.nj{background:#6b3b1b}.gold{color:#f3d27a}a{color:#8fb4ff}
+.disc{background:#2a1f0c;border:1px solid #8a6a20;color:#f5dfa5;border-radius:12px;padding:10px;font-size:.9rem}
+svg{width:100%;background:#0e1a3d;border-radius:12px}
+.path{fill:none;stroke:#e8be50;stroke-width:2.5;stroke-dasharray:1200;stroke-dashoffset:1200;animation:draw 4s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.dot{fill:#ff8c5a;opacity:0;animation:pop .4s forwards}@keyframes pop{to{opacity:1}}
+ol.tl{padding-left:20px}ol.tl li{margin:6px 0;opacity:0;animation:in .4s forwards}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px}
+</style></head><body>
+<header><h1>✡ Jewish Names</h1><p>Where a name comes from — meaning, community &amp; diaspora journey</p></header>
+<main><nav id="nav"></nav><div id="view"></div>
+<p class="disc">⚠️ A surname alone does not prove Jewish ancestry. Many names here were also used by non-Jewish families, and many Jews changed names over time. Use the research links and family records to confirm.</p>
+</main><script src="data.js"></script><script src="app.js"></script></body></html>
